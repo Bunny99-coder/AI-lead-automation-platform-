@@ -1,0 +1,14 @@
+{
+  "type": "ContactCreate",
+  "id": "evt-001",
+  "locationId": "loc-123",
+  "contact": {
+    "id": "contact-abc-001",
+    "firstName": "Jane",
+    "lastName": "Doe",
+    "email": "jane@example.com",
+    "phone": "+15551234567"
+  },
+  "message": "Hi, I am interested in your services",
+  "pipelineStage": "New Lead"
+}
